@@ -11,6 +11,8 @@ I have a longstanding love for everything tech. I currently work as a Full-Stack
   - Composable React.js frontends
   - Super-rad Vue.js apps
   - Modern tests with Jest
+- 🚀 Example Apps:
+  - Here's a [List of Demo Apps](https://github.com/wallacepreston/example-tech) demonstrating the tech I like working in.
 - 📫 Feel free to reach me at: wallace.preston@gmail.com
 <!--
 **wallacepreston/wallacepreston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
