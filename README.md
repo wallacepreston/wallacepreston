@@ -6,6 +6,7 @@ I'm Preston Wallace. I am a Full Stack Software Engineer with a longstanding lov
 
 
 - 🛠 I’m currently working on
+  - Creating courses for [devrocket](https://devrocket.io/)
   - Efficient Node.js backends
   - Performant SQL queries
   - Super-rad GraphQL resolvers
