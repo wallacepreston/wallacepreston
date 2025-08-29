@@ -11,6 +11,7 @@ I'm Preston Wallace. I am a Full Stack Software Engineer with a longstanding lov
   - Performant SQL queries
   - Super-rad GraphQL resolvers
   - Composable React.js frontends
+  - Well-scoped micro frontends
   - Modern tests with Jest
 - 🚀 Portfolio / Example Apps:
   - Besodes my [Portfolio / Personal site](https://prestonwallace.com/) linked above...
